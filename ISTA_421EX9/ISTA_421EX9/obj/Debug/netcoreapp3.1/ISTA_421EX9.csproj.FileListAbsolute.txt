@@ -1,0 +1,13 @@
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\obj\Debug\netcoreapp3.1\ISTA_421EX9.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\obj\Debug\netcoreapp3.1\ISTA_421EX9.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\obj\Debug\netcoreapp3.1\ISTA_421EX9.AssemblyInfo.cs
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\obj\Debug\netcoreapp3.1\ISTA_421EX9.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\bin\Debug\netcoreapp3.1\ISTA_421EX9.exe
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\bin\Debug\netcoreapp3.1\ISTA_421EX9.deps.json
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\bin\Debug\netcoreapp3.1\ISTA_421EX9.runtimeconfig.json
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\bin\Debug\netcoreapp3.1\ISTA_421EX9.runtimeconfig.dev.json
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\bin\Debug\netcoreapp3.1\ISTA_421EX9.dll
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\bin\Debug\netcoreapp3.1\ISTA_421EX9.pdb
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\obj\Debug\netcoreapp3.1\ISTA_421EX9.dll
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\obj\Debug\netcoreapp3.1\ISTA_421EX9.pdb
+C:\Users\wwstudent\Desktop\quatico06\ISTA_421\Exercises\ISTA_421EX9\ISTA_421EX9\obj\Debug\netcoreapp3.1\ISTA_421EX9.genruntimeconfig.cache
